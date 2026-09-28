@@ -1,0 +1,8 @@
+3. Complex
+
+c = 3 + 4j
+print("\nComplex:", c)
+print("Type:", type(c))
+print("Real part:", c.real)
+print("Imaginary part:", c.imag)
+print("Conjugate:", c.conjugate())
