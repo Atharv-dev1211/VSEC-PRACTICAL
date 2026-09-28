@@ -1,0 +1,17 @@
+5. List
+
+numbers = [10, 20, 30, 40, 50]
+print("\nList:", numbers)
+print("Type:", type(numbers))
+print("Length:", len(numbers))
+print("First element:", numbers[0])
+
+numbers.append(60)
+print("After append:", numbers)
+
+numbers.remove(20)
+print("After remove:", numbers)
+
+print("Maximum:", max(numbers))
+print("Minimum:", min(numbers))
+print("Sum:", sum(numbers))
