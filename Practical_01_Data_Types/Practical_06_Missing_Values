@@ -1,9 +1,0 @@
-6. Tuple
-
-t = (10, 20, 30, 40)
-print("\nTuple:", t)
-print("Type:", type(t))
-print("Length:", len(t))
-print("First element:", t[0])
-print("Maximum:", max(t))
-print("Minimum:", min(t))
