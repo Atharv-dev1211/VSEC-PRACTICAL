@@ -1,0 +1,15 @@
+7. Dictionary
+
+student = {
+"name": "Rahul",
+"age": 20,
+"branch": "Computer Engineering"
+}
+
+print("\nDictionary:", student)
+print("Type:", type(student))
+print("Student name:", student["name"])
+print("Student age:", student["age"])
+
+student["age"] = 21
+print("Updated dictionary:", student)
